@@ -1,2 +1,2 @@
 # PercentAndSwipeBackActivityDemo
-百分百布局和页面滑动Finish
+百分比布局和页面滑动Finish
